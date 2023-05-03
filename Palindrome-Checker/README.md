@@ -1,0 +1,1 @@
+My second project in assembly language programming. I wrote an asm file that asks the user for a string, prints whether or not that string is a palindrome. It will loop until a single newline is entered.
